@@ -9,7 +9,7 @@
 
 <br/>  
 
-## My Skil
+## My Skil 💻
 
 <div align="center">
 <table><tr><td valign="top" width="50%">
@@ -46,7 +46,7 @@
 
 ## Contatti  
 
-<div align="center">
+<div align="center"> 
 <a href="https://linkedin.com/in/flavio-cirillo-11723a254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flavio-cirillo-11723a254" height="30" width="40" /></a>
 <a href="https://instagram.com/flaviocirillo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flaviocirillo_" height="30" width="40" /></a>
 <a href="https://discord.gg/flavio cirillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="flavio cirillo" height="30" width="40" /></a>
@@ -54,7 +54,7 @@
   
 <br/>  
 
-<div align="center">📫 Oppure inviami un'email all'indirizzo <a href="mailto:flavio.cirillo14@gmail.com" target="_blank">flavio.cirillo14@gmail.com</a></div>  
+<div align="center">📫 Or send me an email at <a href="mailto:flavio.cirillo14@gmail.com" target="_blank">flavio.cirillo14@gmail.com</a></div>  
 
 <br/>  
 
