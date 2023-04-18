@@ -63,11 +63,11 @@
 ## Github Stats  
 
 </summary>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessialaci&show_icons=true&title_color=fb8c01&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="alessialaci" /></p>  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=flaviocir&show_icons=true&title_color=fb8c01&text_color=ffffff&bg_color=151515&locale=en&layout=compact" alt="flaviocir" /></p>  
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alessialaci&show_icons=true&title_color=fb8c01&text_color=ffffff&bg_color=151515&locale=en" alt="alessialaci" /></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviocir&show_icons=true&title_color=fb8c01&text_color=ffffff&bg_color=151515&locale=en" alt="flaviocir" /></p>  
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessialaci&theme=dark" alt="alessialaci" /></p>  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flaviocir&theme=dark" alt="flaviocir" /></p>  
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=flaviocir&label=Profile%20views&color=fb8c01&style=flat" alt="flaviocir" /> </p>
 
